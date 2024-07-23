@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ec26dec5.css",
+    "main.js": "/react-gh-pages/static/js/main.7bfda7b5.js",
+    "static/media/king photo.jpg": "/react-gh-pages/static/media/king photo.2fa315f8073bf0a19dec.jpg",
+    "static/media/skyscrapers.jpg": "/react-gh-pages/static/media/skyscrapers.ab8c105decb28496307c.jpg",
+    "static/media/water-bridge.jpg": "/react-gh-pages/static/media/water-bridge.45d3824eded328a33f8e.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ec26dec5.css.map": "/react-gh-pages/static/css/main.ec26dec5.css.map",
+    "main.7bfda7b5.js.map": "/react-gh-pages/static/js/main.7bfda7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec26dec5.css",
+    "static/js/main.7bfda7b5.js"
+  ]
+}
