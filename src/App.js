@@ -61,18 +61,13 @@ function App() {
       <Counter  count={count} handleClick={handleClick} />
       <Counter  count={count} handleClick={handleClick} />
      <ColorRender />
-    <PictureComponent/>
-    <Counter>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-      <p>OBI IS A BOY</p>
-    </Counter>
+    {/* <PictureComponent/> */}
+    <Counter />
+    {" "}
     < Canvas/>
+    {" "}
     <Scoreboard/>
+    {" "}
     <Form/>
     {/* <AppData/> */}
     

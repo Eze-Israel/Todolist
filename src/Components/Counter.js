@@ -1,5 +1,5 @@
 
-export default function Counter({handleClick, count, children}) {
+export default function Counter({handleClick, count}) {
 
 
 return(
@@ -7,7 +7,7 @@ return(
         <button onClick={handleClick}>
         Clicked {count} times
         </button>
-        {children}
+        {/* {children} */}
     </>
 );
 
