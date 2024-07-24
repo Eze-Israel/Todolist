@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ec26dec5.css",
-    "main.js": "/react-gh-pages/static/js/main.7bfda7b5.js",
-    "static/media/king photo.jpg": "/react-gh-pages/static/media/king photo.2fa315f8073bf0a19dec.jpg",
-    "static/media/skyscrapers.jpg": "/react-gh-pages/static/media/skyscrapers.ab8c105decb28496307c.jpg",
-    "static/media/water-bridge.jpg": "/react-gh-pages/static/media/water-bridge.45d3824eded328a33f8e.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ec26dec5.css.map": "/react-gh-pages/static/css/main.ec26dec5.css.map",
-    "main.7bfda7b5.js.map": "/react-gh-pages/static/js/main.7bfda7b5.js.map"
+    "main.css": "/Todolist/static/css/main.ec26dec5.css",
+    "main.js": "/Todolist/static/js/main.58395b8b.js",
+    "static/media/king photo.jpg": "/Todolist/static/media/king photo.2fa315f8073bf0a19dec.jpg",
+    "static/media/skyscrapers.jpg": "/Todolist/static/media/skyscrapers.ab8c105decb28496307c.jpg",
+    "static/media/water-bridge.jpg": "/Todolist/static/media/water-bridge.45d3824eded328a33f8e.jpg",
+    "index.html": "/Todolist/index.html",
+    "main.ec26dec5.css.map": "/Todolist/static/css/main.ec26dec5.css.map",
+    "main.58395b8b.js.map": "/Todolist/static/js/main.58395b8b.js.map"
   },
   "entrypoints": [
     "static/css/main.ec26dec5.css",
-    "static/js/main.7bfda7b5.js"
+    "static/js/main.58395b8b.js"
   ]
 }
