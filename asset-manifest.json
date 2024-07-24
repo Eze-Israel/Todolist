@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Todolist/static/css/main.ec26dec5.css",
-    "main.js": "/Todolist/static/js/main.58395b8b.js",
+    "main.js": "/Todolist/static/js/main.d7c36abe.js",
     "static/media/king photo.jpg": "/Todolist/static/media/king photo.2fa315f8073bf0a19dec.jpg",
     "static/media/skyscrapers.jpg": "/Todolist/static/media/skyscrapers.ab8c105decb28496307c.jpg",
     "static/media/water-bridge.jpg": "/Todolist/static/media/water-bridge.45d3824eded328a33f8e.jpg",
     "index.html": "/Todolist/index.html",
     "main.ec26dec5.css.map": "/Todolist/static/css/main.ec26dec5.css.map",
-    "main.58395b8b.js.map": "/Todolist/static/js/main.58395b8b.js.map"
+    "main.d7c36abe.js.map": "/Todolist/static/js/main.d7c36abe.js.map"
   },
   "entrypoints": [
     "static/css/main.ec26dec5.css",
-    "static/js/main.58395b8b.js"
+    "static/js/main.d7c36abe.js"
   ]
 }
